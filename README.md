@@ -4,7 +4,7 @@ A clean and responsive social profile card built following the Frontend Mentor c
 
 ## Live Demo
 
-[View Live Site](https://jawadelachhab.github.io/frontendmentor-social-links-profile/)
+[View Live Site](https://jawadelachhab.github.io/frontendmentor-recipe-page/)
 
 ## Preview
 
@@ -12,7 +12,7 @@ A clean and responsive social profile card built following the Frontend Mentor c
 
 ## Code Source
 
-[View Source Code](https://github.com/jawadelachhab/frontendmentor-social-links-profile)
+[View Source Code](https://github.com/jawadelachhab/frontendmentor-recipe-page)
 
 ## Features
 
